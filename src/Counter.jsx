@@ -41,6 +41,7 @@ export default class Counter extends Component {
     );
   }
 }
+
 export function add(x, y) {
   return x + y;
 }
